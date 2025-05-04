@@ -1,9 +1,16 @@
 # HealthLingua
 
-<img src="1.jpg" alt="HealthLingua Logo" width="300"/>
-<img src="2.jpg" alt="HealthLingua Logo" width="300"/>
-<img src="3.jpg" alt="HealthLingua Logo" width="300"/>
-<img src="4.jpg" alt="HealthLingua Logo" width="300"/>
+<table>
+  <tr>
+    <td><img src="1.jpg" alt="HealthLingua Logo 1" width="200"/></td>
+    <td><img src="2.jpg" alt="HealthLingua Logo 2" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="3.jpg" alt="HealthLingua Logo 3" width="200"/></td>
+    <td><img src="4.jpg" alt="HealthLingua Logo 4" width="200"/></td>
+  </tr>
+</table>
+
 
 
 
