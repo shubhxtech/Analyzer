@@ -1,9 +1,10 @@
 # HealthLingua
 
-![HealthLingua Logo](logo-placeholder.png)
-![HealthLingua Logo](logo-placeholder.png)
-![HealthLingua Logo](logo-placeholder.png)
-![HealthLingua Logo](logo-placeholder.png)
+![HealthLingua Logo](1.jpg)
+![HealthLingua Logo](2.jpg)
+![HealthLingua Logo](3.jpg)
+![HealthLingua Logo](4.jpg
+)
 
 ## 📱 AI-Powered Tongue Analysis for Holistic Health
 
